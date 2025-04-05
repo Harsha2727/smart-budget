@@ -24,17 +24,11 @@ The goal of this project is to provide users with a lightweight, intuitive budge
 - **Chart.js** – For rendering dynamic doughnut charts
 - **LocalStorage API** – For saving user data in the browser
 
-## 📸 Screenshots
-
-| Desktop View | Mobile View |
-|--------------|-------------|
-| ![desktop](screenshots/desktop.png) | ![mobile](screenshots/mobile.png) |
-
 ## 🔧 How to Use
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/smart-budget-tracker.git
+   git clone (https://github.com/Harsha2727/smart-budget.git)
    ```
 2. Open `index.html` in your browser.
 3. Start adding your income and expenses!
@@ -64,6 +58,3 @@ The goal of this project is to provide users with a lightweight, intuitive budge
 - [Chart.js](https://www.chartjs.org/) for the amazing charting library  
 - Inspiration from various personal finance apps
 
-## 📄 License
-
-This project is open-source and free to use under the [MIT License](LICENSE).
